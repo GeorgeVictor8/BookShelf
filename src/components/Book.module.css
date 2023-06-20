@@ -1,6 +1,6 @@
 .bookItem {
     display: flex;
-    width: 10%;
+    width: auto;
     align-items: center;
     justify-content: space-between;
     padding: 1rem;
