@@ -2,12 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Link to app
+### https://leafy-torrone-57eca2.netlify.app
+
 ## Available Scripts
 
 In the project directory, you can run:
 ### `npm install`
 
-installs the app dependencies.\
+installs the app dependencies.
 
 ### `npm start`
 
