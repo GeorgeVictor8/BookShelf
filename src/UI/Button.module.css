@@ -1,0 +1,42 @@
+.button {
+    position: fixed;
+    width: 100%;
+    bottom: 5%;
+    left: 90%;
+  }
+  
+  
+  
+  .button div {
+    background-color: #540d6d;
+    width: 4rem;
+    height: 4rem;
+    border-radius: 2rem;
+    display: flex;
+    justify-content: center;
+    box-shadow: -1px 2px 16px -7px rgba(0, 0, 0, 0.75);
+    align-items: center;
+    color: white;
+  }
+  .button div,
+  .exit-button:hover {
+    background-color: #3e0544;
+  }
+  
+  .exit-button {
+    position: fixed;
+    width: 100%;
+    top: 7.5%;
+    left: 38%;
+  }
+  .exit-button {
+    background-color: #540d6d;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    box-shadow: -1px 2px 16px -7px rgba(0, 0, 0, 0.75);
+    align-items: center;
+    color: white;
+  }

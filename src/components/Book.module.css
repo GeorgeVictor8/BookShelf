@@ -1,0 +1,43 @@
+.bookItem {
+    display: flex;
+    width: 10%;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    flex-direction: column;
+  }
+  .bookItem a {
+    display: contents;
+    text-decoration: none;
+    color: #616161;
+  }
+  .book-title {
+    font-size: large;
+    text-align: center;
+    font-weight: bold;
+  }
+  .book-cover {
+    width: 10rem;
+  }
+  .book-cover img {
+    width: 100%;
+    border-radius: 0.5rem;
+    height: 15rem;
+  }
+  .book-authors {
+    list-style: none;
+  }
+  .book-shelf-changer select {
+    border: 1px solid;
+    border-color: transparent;
+    background-color: #540d6d;
+    color: #ffff;
+    border-radius: 1rem;
+    padding: 0.2rem;
+    margin-top: 0.5rem;
+    text-align: center;
+  }
+  .book-shelf-changer select:hover,
+  option {
+    background-color: #540d6d;
+  }

@@ -1,0 +1,19 @@
+.bookshelf {
+    border-bottom: 1px solid rgb(190, 190, 190);
+    display: flex;
+    justify-content: center;
+  }
+  
+  .bookCard {
+    justify-content: center;
+    color: #69465e;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  
+  .bookCard h2 {
+    width: 100%;
+    margin-left: 2rem;
+  }
+  

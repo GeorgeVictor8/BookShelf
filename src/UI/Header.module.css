@@ -1,0 +1,14 @@
+.header {
+  width: auto;
+  display: flex;
+  background-color: #540d6d;
+  padding: 1rem;
+  justify-content: space-around;
+  list-style: none;
+  color: white;
+  text-shadow: white;
+  padding: 0.5rem 1.5rem;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: x-large
+}

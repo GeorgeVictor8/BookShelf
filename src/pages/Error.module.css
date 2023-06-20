@@ -1,0 +1,12 @@
+.error {
+    margin: 4rem;
+    display: flex;
+    font-size: 3rem;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .icon{
+      width: 100%;
+      font-size: 3rem;
+  }
