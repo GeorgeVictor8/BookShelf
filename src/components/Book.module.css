@@ -1,6 +1,6 @@
 .bookItem {
     display: flex;
-    width: auto;
+    width: 10%;
     align-items: center;
     justify-content: space-between;
     padding: 1rem;
@@ -40,4 +40,11 @@
   .book-shelf-changer select:hover,
   option {
     background-color: #540d6d;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .bookItem {
+       
+        width: auto;
+      }
   }
